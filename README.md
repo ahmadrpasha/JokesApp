@@ -10,8 +10,8 @@ Welcome to the repository for the Jokes web application, a dynamic and interacti
 
 
 ## Technologies Used
-*Microsoft .NET Core: The core framework used for developing the web application.
-*Razor Pages: A page-based programming model that makes building web UI easier and more productive.
-*Entity Framework Core: An object-database mapper that enables .NET developers to work with a database using .NET objects.
+* Microsoft .NET Core: The core framework used for developing the web application.
+* Razor Pages: A page-based programming model that makes building web UI easier and more productive.
+* Entity Framework Core: An object-database mapper that enables .NET developers to work with a database using .NET objects.
 *SQL Server: The database used to store user and jokes data.
 *Bootstrap: For styling and making the web application responsive.
